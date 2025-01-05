@@ -6,12 +6,12 @@
 
 Skills include:
 
-- Microsoft Excel (coming soon ™)
-- SQL (coming soon ™)
-- Tableau (coming soon ™)
-- R (coming soon ™)
-- Python (coming soon ™)
-- Machine Learning (coming soon ™)
+- Microsoft Excel (coming soon™)
+- SQL (coming soon™)
+- Tableau (coming soon™)
+- R (coming soon™)
+- Python (coming soon™)
+- Machine Learning (coming soon™)
 
 <!---
 MichaelYoungDataAnalytics/MichaelYoungDataAnalytics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
