@@ -4,7 +4,7 @@
 
 #### Here you will find a few capstone projects, case studies, and tutorials of mine related to the field of data analytics.
 
-Topics include:
+Skills include:
 
 - Microsoft Excel (coming soon ™)
 - SQL (coming soon ™)
