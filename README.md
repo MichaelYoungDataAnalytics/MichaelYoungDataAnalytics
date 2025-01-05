@@ -1,6 +1,6 @@
-# Hi, 👋 my name is Michael Young.
+<h1 align="center">Hello, World! 👋 My name is Michael Young.</h1>
 
-### - A data detective, data enthusiast, and data wizard -
+<h3 align="center">- A data detective, data enthusiast, and data wizard -</h3>
 
 #### Here you will find a few capstone projects, case studies, and tutorials of mine related to the field of data analytics.
 
